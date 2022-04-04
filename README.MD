@@ -6,13 +6,13 @@ Após algumas alterações no código da aplicação, parte dos testes deixaram 
 
 #### Para compilar o projeto
 
-**Na pasta raiz executar o comando:**
+**Na pasta raiz executar o comando:**<br/>
 `yarn`
 
-**Para executar os testes:**
+**Para executar os testes:** <br/>
 `yarn test`
 
-**Para executar o projeto**
-``yarn dev`
+**Para executar o projeto**<br/>
+`yarn dev`
 
 
